@@ -126,5 +126,6 @@ class ACO(object):
         plt.show()
 
 
-aco = ACO()
-print(aco.best_path[-1])
+if __name__ == '__main__':
+    aco = ACO()
+    print('Total distance: ', aco.best_path[-1])

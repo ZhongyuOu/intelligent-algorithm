@@ -1,4 +1,4 @@
-# intelligent-ptimization-methods
+# intelligent-optimization-methods
 
 ## 1. [Generic Algorithm](./01-generic-alg/genalg.py)
 
